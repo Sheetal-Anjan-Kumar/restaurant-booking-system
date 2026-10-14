@@ -92,10 +92,16 @@ For deployment, set these environment variables:
 ## Project structure
 
 ```
-booking/              Main app: models, views, forms, templates
-restaurant_booking/   Project settings and URLs
-manage.py
-requirements.txt
+task-manager/
+├── backend/
+│ ├── models/Task.js
+│ ├── routes/tasks.js
+│ └── server.js
+└── frontend/
+└── src/
+├── components/
+├── api.js
+└── App.js
 ```
 
 ## Possible future improvements
