@@ -26,6 +26,7 @@ A Django web app where customers book tables at restaurants, and staff manage ta
 
 ## Tech stack
 - Python and Django
+- HTML, CSS, and JavaScript
 - SQLite
 - Bootstrap 5
 - pandas and openpyxl (Excel export)
